@@ -15,7 +15,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: Pedro B
+name: Pedro Belmiro
 location: Brazil 🇧🇷
 focus:
   - Full Stack Development
@@ -64,19 +64,6 @@ currently_learning:
 | Node.js | React | MySQL | Git |
 | APIs REST | Next.js | PostgreSQL | Linux |
 | Authentication | TailwindCSS | SQL Optimization | Cybersecurity |
-
-</div>
-
----
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHobr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHobr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
